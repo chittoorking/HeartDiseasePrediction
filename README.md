@@ -1,7 +1,7 @@
 FUTURE READY TALENT -INTERNSHIP PROJECT<br/>
 ..........................................<br/>
 MICROSOFT AZURE IN HEALTH INDUSTRY<br/>
-In this project I am building a machine learning solution on Microsoft Azure and deploying it to predict whether a patient has a heart failure at an early stage.
+In this project I am building a machine learning solution on Microsoft Azure and deploying it to predict whether a patient has a heart failure at an early stage.<br/>
 -----------------------------------------------------------------------------------------------<br/>
 heart.csv contains the dataset used in the project.<br/>
 HeartDiseasePredictor.py is a final python file for the project.<br/>
